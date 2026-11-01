@@ -39,8 +39,8 @@ This history would tell me that the person is organized. The messages state what
 
 **2. How Git changes editing a working script**
 
-Git changes how I approach making edits by commitin gwhen the script works and then experimenting. Smaller changes and then commitments vs. big changes. What i would do differently is write a message everytime so I know what each version did later.
+Git changes how I approach making edits by commiting when the script works and then experimenting. Smaller changes and then commits vs. big changes. What i would do differently is write a message everytime so I know what each version did later.
 
 **3. Something I'd add to my .gitignore**
 
-A scratch paper/notes page. If I'm only using it for my eyes, the instructor doesn't need to see it. It is not required to be seen in the submission.
+A scratch paper/notes page, like notes.txt. If I'm only using it for my eyes, the instructor doesn't need to see it. It is not required to be seen in the submission.
